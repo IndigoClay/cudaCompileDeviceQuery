@@ -38,7 +38,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "/content/helper_string.h>"
+#include "/content/cudaCompileDeviceQuery/helper_string.h>"
 
 #ifndef EXIT_WAIVED
 #define EXIT_WAIVED 2

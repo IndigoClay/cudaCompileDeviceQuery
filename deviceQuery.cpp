@@ -31,7 +31,7 @@
 // std::system includes
 
 #include <cuda_runtime.h>
-#include "/content/helper_cuda.h"
+#include "/content/cudaCompileDeviceQuery/helper_cuda.h"
 
 #include <iostream>
 #include <memory>
